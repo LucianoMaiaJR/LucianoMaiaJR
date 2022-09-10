@@ -14,7 +14,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="luciano-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="luciano-pic" height="140" style="border-radius:50px;" src="https://i.imgur.com/lEVuB8z.png">
 </div>
   
