@@ -1,5 +1,4 @@
-## Olá, eu sou o Luciano Maia
-## Hello there, i'm Luciano Maia
+## Olá, eu sou o Luciano Maia || Hello there, i'm Luciano Maia
 
 - 🌱 Atualmente estou aprendendo Java
 - 🌱 I’m currently learning Java
