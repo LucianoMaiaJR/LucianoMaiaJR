@@ -19,6 +19,7 @@ Hello there, i'm Luciano Maia
   <img align="right" alt="luciano-pic" height="150" style="border-radius:50px;" 
   src="https://i.imgur.com/lEVuB8z.png">
 </div>
+  
   ##
  
 <div> 
