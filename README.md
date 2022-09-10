@@ -1,8 +1,13 @@
-## Olá eu sou o Luciano Maia / Hello there, i'm Luciano Maia
+## Olá eu sou o Luciano Maia
+Hello there, i'm Luciano Maia
+
+- 🌱 Atualmente estou aprendendo Java
+- 🤔 Estou procurando ajuda em Java
+- 😄 Pronomes: ele/dele 
 
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with Java
-- 😄 Pronouns: ele/dele // he/they
+- 😄 Pronouns: he/him/his
 
 <div align="center">
   <a href="https://github.com/LucianoMaiaJR">
