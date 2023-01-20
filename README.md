@@ -1,12 +1,5 @@
 ## Olá, eu sou o Luciano Maia || Hello there, i'm Luciano Maia
 
-- 🌱 Atualmente estou aprendendo Java
-- 🌱 I’m currently learning Java
-- 🤔 Estou procurando ajuda em Java
-- 🤔 I’m looking for help with Java
-- 😄 Pronomes: ele/dele 
-- 😄 Pronouns: he/him/his
-
 <div align="center">
   <a href="https://github.com/LucianoMaiaJR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoMaiaJR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
